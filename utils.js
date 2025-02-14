@@ -20,7 +20,7 @@ window.onload = () => {
     });
   
     setTimeout(() => {
-      const stickerLink = 'https://wa.me/2348091772541?text=Hey%20love,%20I%20said%20YES!%20❤️';
+      const stickerLink = 'https://wa.me/2348091772541?text=You%20can%20have%20my%20heart%20❤️!';
       window.open(stickerLink, '_blank');
     }, 2000);
   }
